@@ -143,3 +143,6 @@ Cmd: compileComputeKernel
 Cmd: compileComputeKernel
   insize=3184 file=/Users/andy/Desktop/Others/Programming/Unity/Unity Projects/Pac-man_3D/Pac-man 3D/Library/PackageCache/com.unity.postprocessing@3.2.0/PostProcessing/Shaders/Builtins/AutoExposure.compute kernel=KAutoExposureAvgLuminance_progressive cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=2 km=<MAIN=KAutoExposureAvgLuminance_progressive>,<PROGRESSIVE=1>,<UNITY_VERSION=202128> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=metal flags=4096 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=85640
 
+Cmd: shutdown
+
+Quitting shader compiler process
