@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{F8BC7BB3-0B9C-5E38-895C-385A5DCEC48F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/AudioController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerCollision.cs" Line="99" Column="35" />
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="25" Column="42" />
+      <File FileName="Assets/Scripts/CollectiblesAnimation.cs" Line="23" Column="69" />
+      <File FileName="Assets/Scripts/PlayerStats.cs" Line="14" Column="1" />
+      <File FileName="Assets/Scripts/AudioController.cs" Line="35" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Pac-man 3D" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="AudioController.cs" selected="True" />
+              </Node>
+              <Node name="Visuals" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c2896b35-06ff-45d5-911b-ba6426d27034" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <AuthorInfo Name="Andy" Email="andypang1010@outlook.com" Copyright="" Company="" Trademark="" />
+</Properties>

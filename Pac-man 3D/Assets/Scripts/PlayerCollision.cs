@@ -2,27 +2,31 @@ using UnityEngine;
 
 public class PlayerCollision : MonoBehaviour
 {
-    public static int score = 0;
-    public static bool fruitPower = false;
+    float portalOffset = 10f;
 
-    private void OnCollisionEnter(Collision collision)
+    [SerializeField] Material ghostHitMaterial;
+
+    public static int score = 0;
+    public static int lives = 3;
+    public static bool fruitPower = false;
+    public static bool winGame = false;
+    public static bool lostGame = false;
+    public static bool enterPortal = false;
+    public static bool eatSomething = false;
+    public static bool respawning = false;
+
+    private void FixedUpdate()
     {
-        switch(collision.gameObject.tag)
+        winGame = false;
+        lostGame = false;
+        enterPortal = false;
+        eatSomething = false;
+        respawning = false;
+
+        if (fruitPower == true)
         {
-            case "Ghost":
-                if (!fruitPower)
-                {
-                    PlayerMovement.isAlive = false;
-                    Debug.Log("Player lost");
-                    score = 0;
-                }
-                else
-                {
-                    Debug.Log("Ate ghost");
-                    score += 5;
-                    Destroy(collision.gameObject);
-                }
-                break;
+            // Deactivate the power up after a certain timeframe
+            Invoke("deactivatePower", 15f);
         }
     }
 
@@ -31,24 +35,94 @@ public class PlayerCollision : MonoBehaviour
         switch (other.gameObject.tag)
         {
             case "Portal":
-                float offset = 10f;
+
+                enterPortal = true;
+
+                // Offset the player after leaving a portal so it doesn't get stuck
                 if (transform.position.x < 0)
                 {
-                    offset *= -1;
+                    portalOffset *= -1;
                 }
-                transform.position = new Vector3(-transform.position.x + offset, transform.position.y, transform.position.z);
+
+                // Transforming the player's x-position to -1 * it's original x-position
+                PlayerMovement.controller.enabled = false;
+                transform.position = new Vector3(-transform.position.x + portalOffset, transform.position.y, transform.position.z);
+                PlayerMovement.controller.enabled = true;
+
                 break;
 
             case "Gem":
                 score++;
                 Destroy(other.gameObject);
+
+                // Wins if no more gems are left in the game
+                if (GameObject.FindGameObjectsWithTag("Gem").Length <= 1)
+                {
+                    winGame = true;
+                    PlayerMovement.movable = false;
+                }
+                else
+                {
+                    eatSomething = true;
+                }
                 break;
 
             case "Fruit":
+                eatSomething = true;
                 score += 2;
                 fruitPower = true;
                 Destroy(other.gameObject);
                 break;
+
+            case "Ghost":
+
+                // Eats ghost if player eats power up
+                if (fruitPower)
+                {
+                    eatSomething = true;
+                    score += 5;
+                    Destroy(other.gameObject);
+                }
+                else
+                {
+
+                // Loses a life when ghost eats player
+                    lives -= 1;
+
+                    if (lives <= 0)
+                    {
+                        lostGame = true;
+                        PlayerMovement.movable = false;
+                    }
+                    else
+                    {
+                        respawn();
+                    }
+                }
+                break;
         }
+    }
+
+    // Respawn the player after being eaten by the ghosts at the starting position
+    private void respawn()
+    {
+        respawning = true;
+        PlayerMovement.controller.enabled = false;
+        transform.position = PlayerMovement.startingPosition;
+        transform.rotation = PlayerMovement.startingRotation;
+        Invoke("allowMovement", 1.5f);
+    }
+
+    // Deactivate power up
+    private void deactivatePower()
+    {
+        fruitPower = false;
+    }
+
+    // Allow player to move
+    private void allowMovement()
+    {
+        PlayerMovement.controller.enabled = true;
+        PlayerMovement.movable = true;
     }
 }
