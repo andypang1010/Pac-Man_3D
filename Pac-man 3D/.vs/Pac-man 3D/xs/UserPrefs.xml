@@ -1,11 +1,12 @@
 ﻿<Properties StartupConfiguration="{F8BC7BB3-0B9C-5E38-895C-385A5DCEC48F}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/AudioController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerMovement.cs">
     <Files>
-      <File FileName="Assets/Scripts/PlayerCollision.cs" Line="99" Column="35" />
-      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="25" Column="42" />
-      <File FileName="Assets/Scripts/CollectiblesAnimation.cs" Line="23" Column="69" />
-      <File FileName="Assets/Scripts/PlayerStats.cs" Line="14" Column="1" />
-      <File FileName="Assets/Scripts/AudioController.cs" Line="35" Column="10" />
+      <File FileName="Assets/Scripts/PlayerCollision.cs" Line="25" Column="1" />
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="7" Column="46" />
+      <File FileName="Assets/Scripts/CollectiblesAnimation.cs" Line="17" Column="6" />
+      <File FileName="Assets/Scripts/AudioController.cs" Line="50" Column="10" />
+      <File FileName="Assets/BGMController.cs" Line="19" Column="33" />
+      <File FileName="Assets/Scripts/UIController.cs" Line="1" Column="13" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,7 +14,7 @@
           <Node name="Pac-man 3D" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="AudioController.cs" selected="True" />
+                <Node name="PlayerMovement.cs" selected="True" />
               </Node>
               <Node name="Visuals" expanded="True" />
             </Node>

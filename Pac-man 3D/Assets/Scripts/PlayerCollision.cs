@@ -15,19 +15,13 @@ public class PlayerCollision : MonoBehaviour
     public static bool eatSomething = false;
     public static bool respawning = false;
 
-    private void FixedUpdate()
+    private void Update()
     {
         winGame = false;
         lostGame = false;
         enterPortal = false;
         eatSomething = false;
         respawning = false;
-
-        if (fruitPower == true)
-        {
-            // Deactivate the power up after a certain timeframe
-            Invoke("deactivatePower", 15f);
-        }
     }
 
     private void OnTriggerEnter(Collider other)
@@ -52,8 +46,8 @@ public class PlayerCollision : MonoBehaviour
                 break;
 
             case "Gem":
-                score++;
                 Destroy(other.gameObject);
+                score++;
 
                 // Wins if no more gems are left in the game
                 if (GameObject.FindGameObjectsWithTag("Gem").Length <= 1)
@@ -63,7 +57,10 @@ public class PlayerCollision : MonoBehaviour
                 }
                 else
                 {
+                    PlayerMovement.controller.enabled = false;
                     eatSomething = true;
+                    PlayerMovement.controller.enabled = true;
+
                 }
                 break;
 
@@ -72,6 +69,7 @@ public class PlayerCollision : MonoBehaviour
                 score += 2;
                 fruitPower = true;
                 Destroy(other.gameObject);
+                Invoke("deactivatePower", 14f);
                 break;
 
             case "Ghost":
@@ -97,6 +95,7 @@ public class PlayerCollision : MonoBehaviour
                     else
                     {
                         respawn();
+
                     }
                 }
                 break;

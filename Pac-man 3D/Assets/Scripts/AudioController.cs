@@ -4,6 +4,7 @@ public class AudioController : MonoBehaviour
 {
     AudioSource audioSource;
 
+    [SerializeField] AudioClip powerUpClip;
     [SerializeField] AudioClip portalClip;
     [SerializeField] AudioClip respawnClip;
     [SerializeField] AudioClip eatClip;
@@ -33,7 +34,7 @@ public class AudioController : MonoBehaviour
         // Play eat clip when player eats something
         if (PlayerCollision.eatSomething)
         {
-            audioSource.PlayOneShot(eatClip, 0.3f);
+            Invoke("playEat", 0.1f);
         }
 
         // Play win clip when player wins
@@ -47,7 +48,6 @@ public class AudioController : MonoBehaviour
         {
             Invoke("playLose", 1f);
         }
-
     }
 
     private void playWin()
@@ -58,5 +58,10 @@ public class AudioController : MonoBehaviour
     private void playLose()
     {
         audioSource.PlayOneShot(lostClip, 0.5f);
+    }
+
+    private void playEat()
+    {
+        audioSource.PlayOneShot(eatClip);
     }
 }

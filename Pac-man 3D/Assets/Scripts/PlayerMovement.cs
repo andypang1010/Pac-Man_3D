@@ -4,7 +4,7 @@ public class PlayerMovement : MonoBehaviour
 {
     public static CharacterController controller;
 
-    [SerializeField] float movementSpeed = 70f;
+    [SerializeField] float movementSpeed = 15f;
 
     public static Vector3 startingPosition = new Vector3(0, 0, -85);
     public static Quaternion startingRotation = new Quaternion(0, 0, 0, 0);
