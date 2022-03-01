@@ -55,10 +55,6 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - _TerrainHolesTexture:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
     - _BUILTIN_QueueControl: 0
@@ -82,10 +78,10 @@ Material:
     - _edgeSize: 0.05
     - _noiseScale: 30
     m_Colors:
-    - _Color: {r: 1, g: 0.3726415, b: 0.8729902, a: 1}
-    - _EmissionColor: {r: 0.5377358, g: 0, b: 0.41962662, a: 1}
-    - _baseColor: {r: 1, g: 0.03529412, b: 0.8745098, a: 0}
-    - _edgeColor: {r: 33.744946, g: 12.571647, b: 29.510286, a: 0}
+    - _Color: {r: 1, g: 0, b: 0.8083925, a: 1}
+    - _EmissionColor: {r: 0.6698113, g: 0, b: 0.5437292, a: 1}
+    - _baseColor: {r: 0, g: 0.11372549, b: 0.8509804, a: 0}
+    - _edgeColor: {r: 0, g: 0.9263318, b: 33.74495, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &3586226603255780314
 MonoBehaviour:

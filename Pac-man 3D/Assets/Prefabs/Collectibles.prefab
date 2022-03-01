@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8558983782642321947}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Collectibles
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -42,7 +42,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8558983782880898963}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Gems
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -212,7 +212,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8558983783067549346}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Fruits
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -311,6 +311,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (70)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 70
@@ -388,6 +392,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -467,6 +475,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (104)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 104
@@ -544,6 +556,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (51)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -623,6 +639,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (30)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 30
@@ -700,6 +720,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -779,6 +803,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (93)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 93
@@ -856,6 +884,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -935,6 +967,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (92)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 92
@@ -1012,6 +1048,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -1091,6 +1131,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (96)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 96
@@ -1168,6 +1212,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (39)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -1247,6 +1295,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (79)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 79
@@ -1324,6 +1376,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (111)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -1403,6 +1459,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (116)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 116
@@ -1480,6 +1540,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -1559,6 +1623,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (65)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 65
@@ -1636,6 +1704,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (98)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -1715,6 +1787,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (60)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 60
@@ -1792,6 +1868,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (88)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -1871,6 +1951,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (137)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 137
@@ -1948,6 +2032,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (53)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -2027,6 +2115,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (45)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 45
@@ -2104,6 +2196,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (91)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -2245,6 +2341,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (115)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 115
@@ -2322,6 +2422,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (97)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -2401,6 +2505,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (127)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 127
@@ -2478,6 +2586,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (132)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -2557,6 +2669,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (73)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 73
@@ -2634,6 +2750,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -2713,6 +2833,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (105)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 105
@@ -2790,6 +2914,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (84)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -2869,6 +2997,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (95)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 95
@@ -2946,6 +3078,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (90)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -3025,6 +3161,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (108)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 108
@@ -3102,6 +3242,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (71)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -3181,6 +3325,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (114)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 114
@@ -3258,6 +3406,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (37)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -3337,6 +3489,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 8
@@ -3414,6 +3570,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (34)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -3493,6 +3653,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (86)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 86
@@ -3570,6 +3734,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (133)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -3649,6 +3817,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (121)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 121
@@ -3726,6 +3898,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (63)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -3805,6 +3981,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -3882,6 +4062,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (36)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -3961,6 +4145,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (31)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 31
@@ -4038,6 +4226,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (122)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -4117,6 +4309,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (113)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 113
@@ -4194,6 +4390,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (50)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -4273,6 +4473,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (58)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 58
@@ -4350,6 +4554,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (112)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -4429,6 +4637,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (94)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 94
@@ -4506,6 +4718,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (61)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -4585,6 +4801,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (54)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 54
@@ -4662,6 +4882,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (123)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -4741,6 +4965,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (75)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 75
@@ -4818,6 +5046,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (131)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -4897,6 +5129,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (87)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 87
@@ -4974,6 +5210,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (76)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -5053,6 +5293,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 11
@@ -5130,6 +5374,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (117)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -5209,6 +5457,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (102)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 102
@@ -5286,6 +5538,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (136)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -5365,6 +5621,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (49)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 49
@@ -5442,6 +5702,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (42)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -5521,6 +5785,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (67)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 67
@@ -5598,6 +5866,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -5677,6 +5949,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (89)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 89
@@ -5754,6 +6030,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (80)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -5833,6 +6113,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (24)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 24
@@ -5910,6 +6194,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (43)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -5989,6 +6277,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 19
@@ -6066,6 +6358,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (33)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -6145,6 +6441,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 18
@@ -6222,6 +6522,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (134)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -6301,6 +6605,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (25)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 25
@@ -6378,6 +6686,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -6457,6 +6769,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 13
@@ -6534,6 +6850,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -6613,6 +6933,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (47)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 47
@@ -6690,6 +7014,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (128)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -6769,6 +7097,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (109)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 109
@@ -6846,6 +7178,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (62)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -6925,6 +7261,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (56)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 56
@@ -7002,6 +7342,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (107)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -7081,6 +7425,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (110)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 110
@@ -7158,6 +7506,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (52)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -7299,6 +7651,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (69)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 69
@@ -7376,6 +7732,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (119)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -7455,6 +7815,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (46)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 46
@@ -7532,6 +7896,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (32)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -7611,6 +7979,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (103)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 103
@@ -7688,6 +8060,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -7767,6 +8143,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (130)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 130
@@ -7844,6 +8224,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -7923,6 +8307,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (120)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 120
@@ -8000,6 +8388,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (72)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -8079,6 +8471,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (48)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 48
@@ -8156,6 +8552,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (125)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -8235,6 +8635,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (85)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 85
@@ -8312,6 +8716,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (106)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -8391,6 +8799,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (126)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 126
@@ -8468,6 +8880,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -8547,6 +8963,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (28)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 28
@@ -8624,6 +9044,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (118)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -8703,6 +9127,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (124)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 124
@@ -8780,6 +9208,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (44)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -8859,6 +9291,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (59)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 59
@@ -8936,6 +9372,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (99)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -9015,6 +9455,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (81)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 81
@@ -9092,6 +9536,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (35)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -9171,6 +9619,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 6
@@ -9249,6 +9701,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (78)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 78
@@ -9326,6 +9782,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (138)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -9467,6 +9927,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 12
@@ -9544,6 +10008,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (74)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -9623,6 +10091,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -9700,6 +10172,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -9779,6 +10255,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -9856,6 +10336,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (135)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -9935,6 +10419,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (100)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 100
@@ -10012,6 +10500,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (129)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -10091,6 +10583,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (64)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 64
@@ -10168,6 +10664,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (68)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -10247,6 +10747,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (82)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 82
@@ -10324,6 +10828,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (55)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -10403,6 +10911,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (101)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 101
@@ -10480,6 +10992,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (57)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -10559,6 +11075,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (41)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 41
@@ -10636,6 +11156,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -10715,6 +11239,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (23)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 23
@@ -10792,6 +11320,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -10871,6 +11403,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (77)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 77
@@ -10948,6 +11484,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -11027,6 +11567,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (40)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 40
@@ -11104,6 +11648,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (38)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
@@ -11183,6 +11731,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gem (83)
       objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder
       value: 83
@@ -11260,6 +11812,10 @@ PrefabInstance:
     - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_Name
       value: Gem (66)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167414920343503330, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8167414920343503334, guid: e0a83c3550aa44f4299391ae7e7865c4, type: 3}
       propertyPath: m_RootOrder

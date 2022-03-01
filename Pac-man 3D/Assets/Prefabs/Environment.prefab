@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 55258582}
   - component: {fileID: 55258581}
   - component: {fileID: 55258580}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wall (43)
   m_TagString: Wall
   m_Icon: {fileID: 0}
@@ -109,7 +109,7 @@ GameObject:
   - component: {fileID: 107127369}
   - component: {fileID: 107127368}
   - component: {fileID: 107127367}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wall (4)
   m_TagString: Wall
   m_Icon: {fileID: 0}
@@ -206,7 +206,7 @@ GameObject:
   - component: {fileID: 118424333}
   - component: {fileID: 118424332}
   - component: {fileID: 118424331}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wall (12)
   m_TagString: Wall
   m_Icon: {fileID: 0}
@@ -303,7 +303,7 @@ GameObject:
   - component: {fileID: 154376135}
   - component: {fileID: 154376134}
   - component: {fileID: 154376133}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wall (9)
   m_TagString: Wall
   m_Icon: {fileID: 0}
@@ -400,7 +400,7 @@ GameObject:
   - component: {fileID: 184263752}
   - component: {fileID: 184263751}
   - component: {fileID: 184263750}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wall (13)
   m_TagString: Wall
   m_Icon: {fileID: 0}
@@ -497,7 +497,7 @@ GameObject:
   - component: {fileID: 199171381}
   - component: {fileID: 199171380}
   - component: {fileID: 199171379}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wall (7)
   m_TagString: Wall
   m_Icon: {fileID: 0}
@@ -594,7 +594,7 @@ GameObject:
   - component: {fileID: 206829713}
   - component: {fileID: 206829712}
   - component: {fileID: 206829711}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wall (36)
   m_TagString: Wall
   m_Icon: {fileID: 0}
@@ -691,7 +691,7 @@ GameObject:
   - component: {fileID: 268991545}
   - component: {fileID: 268991544}
   - component: {fileID: 268991543}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wall (35)
   m_TagString: Wall
   m_Icon: {fileID: 0}
@@ -788,7 +788,7 @@ GameObject:
   - component: {fileID: 281257825}
   - component: {fileID: 281257824}
   - component: {fileID: 281257823}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wall (16)
   m_TagString: Wall
   m_Icon: {fileID: 0}
@@ -885,7 +885,7 @@ GameObject:
   - component: {fileID: 491913126}
   - component: {fileID: 491913125}
   - component: {fileID: 491913124}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wall (48)
   m_TagString: Wall
   m_Icon: {fileID: 0}
@@ -982,7 +982,7 @@ GameObject:
   - component: {fileID: 669826791}
   - component: {fileID: 669826790}
   - component: {fileID: 669826789}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wall (37)
   m_TagString: Wall
   m_Icon: {fileID: 0}
@@ -1079,7 +1079,7 @@ GameObject:
   - component: {fileID: 672407106}
   - component: {fileID: 672407105}
   - component: {fileID: 672407104}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wall (42)
   m_TagString: Wall
   m_Icon: {fileID: 0}
@@ -1176,7 +1176,7 @@ GameObject:
   - component: {fileID: 676430420}
   - component: {fileID: 676430419}
   - component: {fileID: 676430418}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wall (2)
   m_TagString: Wall
   m_Icon: {fileID: 0}
@@ -1273,7 +1273,7 @@ GameObject:
   - component: {fileID: 699903748}
   - component: {fileID: 699903747}
   - component: {fileID: 699903746}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wall (34)
   m_TagString: Wall
   m_Icon: {fileID: 0}
@@ -1370,7 +1370,7 @@ GameObject:
   - component: {fileID: 725276801}
   - component: {fileID: 725276800}
   - component: {fileID: 725276799}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wall (11)
   m_TagString: Wall
   m_Icon: {fileID: 0}
@@ -1467,7 +1467,7 @@ GameObject:
   - component: {fileID: 726404373}
   - component: {fileID: 726404372}
   - component: {fileID: 726404371}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wall (47)
   m_TagString: Wall
   m_Icon: {fileID: 0}
@@ -1564,7 +1564,7 @@ GameObject:
   - component: {fileID: 765486068}
   - component: {fileID: 765486067}
   - component: {fileID: 765486066}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wall (31)
   m_TagString: Wall
   m_Icon: {fileID: 0}
@@ -1661,7 +1661,7 @@ GameObject:
   - component: {fileID: 784653260}
   - component: {fileID: 784653259}
   - component: {fileID: 784653258}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wall (5)
   m_TagString: Wall
   m_Icon: {fileID: 0}
@@ -1852,7 +1852,7 @@ GameObject:
   - component: {fileID: 877396494}
   - component: {fileID: 877396493}
   - component: {fileID: 877396492}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wall (41)
   m_TagString: Wall
   m_Icon: {fileID: 0}
@@ -1949,7 +1949,7 @@ GameObject:
   - component: {fileID: 954770787}
   - component: {fileID: 954770786}
   - component: {fileID: 954770785}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wall (52)
   m_TagString: Wall
   m_Icon: {fileID: 0}
@@ -2046,7 +2046,7 @@ GameObject:
   - component: {fileID: 1004326659}
   - component: {fileID: 1004326658}
   - component: {fileID: 1004326657}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wall (6)
   m_TagString: Wall
   m_Icon: {fileID: 0}
@@ -2143,7 +2143,7 @@ GameObject:
   - component: {fileID: 1040389390}
   - component: {fileID: 1040389389}
   - component: {fileID: 1040389388}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wall (30)
   m_TagString: Wall
   m_Icon: {fileID: 0}
@@ -2237,7 +2237,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1047475335}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Walls
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2318,7 +2318,7 @@ GameObject:
   - component: {fileID: 1073186188}
   - component: {fileID: 1073186187}
   - component: {fileID: 1073186186}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wall (50)
   m_TagString: Wall
   m_Icon: {fileID: 0}
@@ -2415,7 +2415,7 @@ GameObject:
   - component: {fileID: 1114544042}
   - component: {fileID: 1114544041}
   - component: {fileID: 1114544040}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wall (29)
   m_TagString: Wall
   m_Icon: {fileID: 0}
@@ -2543,7 +2543,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 4db55a9c3ef62426b99af9d8c5c17f36, type: 3}
+  m_audioClip: {fileID: 0}
   m_PlayOnAwake: 1
   m_Volume: 0.1
   m_Pitch: 1
@@ -2641,6 +2641,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d68972faa82cd4d73a3ba0b99ad3fd6d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  winClip: {fileID: 8300000, guid: 81c2a3b7cd2554ba8b9676a4bc5ebaed, type: 3}
+  loseClip: {fileID: 8300000, guid: e809d67bcf1534671a3b6d864ff68eee, type: 3}
+  BGMClip: {fileID: 8300000, guid: 4db55a9c3ef62426b99af9d8c5c17f36, type: 3}
 --- !u!1 &1473211079
 GameObject:
   m_ObjectHideFlags: 0
@@ -2653,7 +2656,7 @@ GameObject:
   - component: {fileID: 1473211083}
   - component: {fileID: 1473211082}
   - component: {fileID: 1473211081}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wall (15)
   m_TagString: Wall
   m_Icon: {fileID: 0}
@@ -2750,7 +2753,7 @@ GameObject:
   - component: {fileID: 1488835268}
   - component: {fileID: 1488835267}
   - component: {fileID: 1488835266}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wall (51)
   m_TagString: Wall
   m_Icon: {fileID: 0}
@@ -2847,7 +2850,7 @@ GameObject:
   - component: {fileID: 1554483183}
   - component: {fileID: 1554483182}
   - component: {fileID: 1554483181}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wall (17)
   m_TagString: Wall
   m_Icon: {fileID: 0}
@@ -2944,7 +2947,7 @@ GameObject:
   - component: {fileID: 1563986381}
   - component: {fileID: 1563986380}
   - component: {fileID: 1563986379}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wall (40)
   m_TagString: Wall
   m_Icon: {fileID: 0}
@@ -3041,7 +3044,7 @@ GameObject:
   - component: {fileID: 1589494232}
   - component: {fileID: 1589494231}
   - component: {fileID: 1589494230}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wall (10)
   m_TagString: Wall
   m_Icon: {fileID: 0}
@@ -3138,7 +3141,7 @@ GameObject:
   - component: {fileID: 1626314110}
   - component: {fileID: 1626314109}
   - component: {fileID: 1626314108}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wall (49)
   m_TagString: Wall
   m_Icon: {fileID: 0}
@@ -3235,7 +3238,7 @@ GameObject:
   - component: {fileID: 1787031076}
   - component: {fileID: 1787031075}
   - component: {fileID: 1787031074}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wall (14)
   m_TagString: Wall
   m_Icon: {fileID: 0}
@@ -3332,7 +3335,7 @@ GameObject:
   - component: {fileID: 1791682421}
   - component: {fileID: 1791682420}
   - component: {fileID: 1791682419}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wall (18)
   m_TagString: Wall
   m_Icon: {fileID: 0}
@@ -3429,7 +3432,7 @@ GameObject:
   - component: {fileID: 1839094656}
   - component: {fileID: 1839094655}
   - component: {fileID: 1839094654}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wall (33)
   m_TagString: Wall
   m_Icon: {fileID: 0}
@@ -3526,7 +3529,7 @@ GameObject:
   - component: {fileID: 1857176683}
   - component: {fileID: 1857176682}
   - component: {fileID: 1857176681}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wall (39)
   m_TagString: Wall
   m_Icon: {fileID: 0}
@@ -3623,7 +3626,7 @@ GameObject:
   - component: {fileID: 1955483936}
   - component: {fileID: 1955483935}
   - component: {fileID: 1955483934}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wall (1)
   m_TagString: Wall
   m_Icon: {fileID: 0}
@@ -3720,7 +3723,7 @@ GameObject:
   - component: {fileID: 1973879089}
   - component: {fileID: 1973879088}
   - component: {fileID: 1973879087}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wall (3)
   m_TagString: Wall
   m_Icon: {fileID: 0}
@@ -3817,7 +3820,7 @@ GameObject:
   - component: {fileID: 1994115755}
   - component: {fileID: 1994115754}
   - component: {fileID: 1994115753}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wall (8)
   m_TagString: Wall
   m_Icon: {fileID: 0}
@@ -3914,7 +3917,7 @@ GameObject:
   - component: {fileID: 2074769334}
   - component: {fileID: 2074769333}
   - component: {fileID: 2074769332}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wall (38)
   m_TagString: Wall
   m_Icon: {fileID: 0}
@@ -4011,7 +4014,7 @@ GameObject:
   - component: {fileID: 2115656139}
   - component: {fileID: 2115656138}
   - component: {fileID: 2115656137}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wall (32)
   m_TagString: Wall
   m_Icon: {fileID: 0}
@@ -4299,6 +4302,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Plane
       objectReference: {fileID: 0}
+    - target: {fileID: 4181512419810575199, guid: 4df4902ec2b074b178bad607d74719ae, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4df4902ec2b074b178bad607d74719ae, type: 3}
 --- !u!4 &8812508149690554961 stripped
@@ -4370,6 +4377,10 @@ PrefabInstance:
       value: Wall
       objectReference: {fileID: 0}
     - target: {fileID: 3995790163437598650, guid: 5b9366b8c2b0e4c5e920eef3052a813b, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3995790163437598650, guid: 5b9366b8c2b0e4c5e920eef3052a813b, type: 3}
       propertyPath: m_TagString
       value: Wall
       objectReference: {fileID: 0}
@@ -4398,6 +4409,10 @@ PrefabInstance:
     - target: {fileID: 3077562315608793775, guid: 87d39a0118ee841239d1c43bb98dd1a8, type: 3}
       propertyPath: m_Name
       value: Wall (43)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3077562315608793775, guid: 87d39a0118ee841239d1c43bb98dd1a8, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 3077562315608793775, guid: 87d39a0118ee841239d1c43bb98dd1a8, type: 3}
       propertyPath: m_TagString
@@ -4456,6 +4471,10 @@ PrefabInstance:
       value: Wall (44)
       objectReference: {fileID: 0}
     - target: {fileID: 4708805684501435034, guid: 87d39a0118ee841239d1c43bb98dd1a8, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4708805684501435034, guid: 87d39a0118ee841239d1c43bb98dd1a8, type: 3}
       propertyPath: m_TagString
       value: Wall
       objectReference: {fileID: 0}
@@ -4466,6 +4485,10 @@ PrefabInstance:
     - target: {fileID: 8765707336621210819, guid: 87d39a0118ee841239d1c43bb98dd1a8, type: 3}
       propertyPath: m_Name
       value: L-Wall
+      objectReference: {fileID: 0}
+    - target: {fileID: 8765707336621210819, guid: 87d39a0118ee841239d1c43bb98dd1a8, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 8765707336621210819, guid: 87d39a0118ee841239d1c43bb98dd1a8, type: 3}
       propertyPath: m_TagString
@@ -4488,6 +4511,10 @@ PrefabInstance:
     - target: {fileID: 718679821583888741, guid: d253f5461e50f4bb19771cb71a083941, type: 3}
       propertyPath: m_Name
       value: T-Wall (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 718679821583888741, guid: d253f5461e50f4bb19771cb71a083941, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 718679821583888741, guid: d253f5461e50f4bb19771cb71a083941, type: 3}
       propertyPath: m_TagString
@@ -4566,12 +4593,20 @@ PrefabInstance:
       value: Wall (21)
       objectReference: {fileID: 0}
     - target: {fileID: 5212715672759369151, guid: d253f5461e50f4bb19771cb71a083941, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5212715672759369151, guid: d253f5461e50f4bb19771cb71a083941, type: 3}
       propertyPath: m_TagString
       value: Wall
       objectReference: {fileID: 0}
     - target: {fileID: 6866926364671401687, guid: d253f5461e50f4bb19771cb71a083941, type: 3}
       propertyPath: m_Name
       value: Wall (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6866926364671401687, guid: d253f5461e50f4bb19771cb71a083941, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 6866926364671401687, guid: d253f5461e50f4bb19771cb71a083941, type: 3}
       propertyPath: m_TagString
@@ -4594,6 +4629,10 @@ PrefabInstance:
     - target: {fileID: 718679821583888741, guid: d253f5461e50f4bb19771cb71a083941, type: 3}
       propertyPath: m_Name
       value: T-Wall
+      objectReference: {fileID: 0}
+    - target: {fileID: 718679821583888741, guid: d253f5461e50f4bb19771cb71a083941, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 718679821583888741, guid: d253f5461e50f4bb19771cb71a083941, type: 3}
       propertyPath: m_TagString
@@ -4656,8 +4695,16 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 2100000, guid: 3b4fc8d9ad1a3496c8f22f6bcf8f515c, type: 2}
     - target: {fileID: 5212715672759369151, guid: d253f5461e50f4bb19771cb71a083941, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5212715672759369151, guid: d253f5461e50f4bb19771cb71a083941, type: 3}
       propertyPath: m_TagString
       value: Wall
+      objectReference: {fileID: 0}
+    - target: {fileID: 6866926364671401687, guid: d253f5461e50f4bb19771cb71a083941, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 6866926364671401687, guid: d253f5461e50f4bb19771cb71a083941, type: 3}
       propertyPath: m_TagString
@@ -4688,6 +4735,10 @@ PrefabInstance:
     - target: {fileID: 3077562315608793775, guid: 87d39a0118ee841239d1c43bb98dd1a8, type: 3}
       propertyPath: m_Name
       value: Wall (45)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3077562315608793775, guid: 87d39a0118ee841239d1c43bb98dd1a8, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 3077562315608793775, guid: 87d39a0118ee841239d1c43bb98dd1a8, type: 3}
       propertyPath: m_TagString
@@ -4746,6 +4797,10 @@ PrefabInstance:
       value: Wall (46)
       objectReference: {fileID: 0}
     - target: {fileID: 4708805684501435034, guid: 87d39a0118ee841239d1c43bb98dd1a8, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4708805684501435034, guid: 87d39a0118ee841239d1c43bb98dd1a8, type: 3}
       propertyPath: m_TagString
       value: Wall
       objectReference: {fileID: 0}
@@ -4756,6 +4811,10 @@ PrefabInstance:
     - target: {fileID: 8765707336621210819, guid: 87d39a0118ee841239d1c43bb98dd1a8, type: 3}
       propertyPath: m_Name
       value: L-Wall (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8765707336621210819, guid: 87d39a0118ee841239d1c43bb98dd1a8, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 8765707336621210819, guid: 87d39a0118ee841239d1c43bb98dd1a8, type: 3}
       propertyPath: m_TagString
@@ -4778,6 +4837,10 @@ PrefabInstance:
     - target: {fileID: 718679821583888741, guid: d253f5461e50f4bb19771cb71a083941, type: 3}
       propertyPath: m_Name
       value: T-Wall (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 718679821583888741, guid: d253f5461e50f4bb19771cb71a083941, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 718679821583888741, guid: d253f5461e50f4bb19771cb71a083941, type: 3}
       propertyPath: m_TagString
@@ -4856,12 +4919,20 @@ PrefabInstance:
       value: Wall (23)
       objectReference: {fileID: 0}
     - target: {fileID: 5212715672759369151, guid: d253f5461e50f4bb19771cb71a083941, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5212715672759369151, guid: d253f5461e50f4bb19771cb71a083941, type: 3}
       propertyPath: m_TagString
       value: Wall
       objectReference: {fileID: 0}
     - target: {fileID: 6866926364671401687, guid: d253f5461e50f4bb19771cb71a083941, type: 3}
       propertyPath: m_Name
       value: Wall (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6866926364671401687, guid: d253f5461e50f4bb19771cb71a083941, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 6866926364671401687, guid: d253f5461e50f4bb19771cb71a083941, type: 3}
       propertyPath: m_TagString
@@ -4884,6 +4955,10 @@ PrefabInstance:
     - target: {fileID: 718679821583888741, guid: d253f5461e50f4bb19771cb71a083941, type: 3}
       propertyPath: m_Name
       value: T-Wall (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 718679821583888741, guid: d253f5461e50f4bb19771cb71a083941, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 718679821583888741, guid: d253f5461e50f4bb19771cb71a083941, type: 3}
       propertyPath: m_TagString
@@ -4950,12 +5025,20 @@ PrefabInstance:
       value: Wall (27)
       objectReference: {fileID: 0}
     - target: {fileID: 5212715672759369151, guid: d253f5461e50f4bb19771cb71a083941, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5212715672759369151, guid: d253f5461e50f4bb19771cb71a083941, type: 3}
       propertyPath: m_TagString
       value: Wall
       objectReference: {fileID: 0}
     - target: {fileID: 6866926364671401687, guid: d253f5461e50f4bb19771cb71a083941, type: 3}
       propertyPath: m_Name
       value: Wall (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6866926364671401687, guid: d253f5461e50f4bb19771cb71a083941, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 6866926364671401687, guid: d253f5461e50f4bb19771cb71a083941, type: 3}
       propertyPath: m_TagString
@@ -4978,6 +5061,10 @@ PrefabInstance:
     - target: {fileID: 718679821583888741, guid: d253f5461e50f4bb19771cb71a083941, type: 3}
       propertyPath: m_Name
       value: T-Wall (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 718679821583888741, guid: d253f5461e50f4bb19771cb71a083941, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 718679821583888741, guid: d253f5461e50f4bb19771cb71a083941, type: 3}
       propertyPath: m_TagString
@@ -5044,12 +5131,20 @@ PrefabInstance:
       value: Wall (25)
       objectReference: {fileID: 0}
     - target: {fileID: 5212715672759369151, guid: d253f5461e50f4bb19771cb71a083941, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5212715672759369151, guid: d253f5461e50f4bb19771cb71a083941, type: 3}
       propertyPath: m_TagString
       value: Wall
       objectReference: {fileID: 0}
     - target: {fileID: 6866926364671401687, guid: d253f5461e50f4bb19771cb71a083941, type: 3}
       propertyPath: m_Name
       value: Wall (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6866926364671401687, guid: d253f5461e50f4bb19771cb71a083941, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 6866926364671401687, guid: d253f5461e50f4bb19771cb71a083941, type: 3}
       propertyPath: m_TagString

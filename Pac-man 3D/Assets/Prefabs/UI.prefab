@@ -281,6 +281,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: da0eba18268024adcb9c02e1ba00ce9d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  scoreText: {fileID: 3676803499468096955}
+  lifeText: {fileID: 336525484}
+  powerColor: {r: 0, g: 255, b: 203, a: 1}
+  lostColor: {r: 1, g: 0.24056602, b: 0.24056602, a: 1}
 --- !u!1 &3396730732229790467
 GameObject:
   m_ObjectHideFlags: 0

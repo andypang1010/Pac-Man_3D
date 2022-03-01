@@ -78,10 +78,10 @@ Material:
     - _edgeSize: 0.05
     - _noiseScale: 30
     m_Colors:
-    - _Color: {r: 1, g: 0.59403145, b: 0.21226418, a: 1}
-    - _EmissionColor: {r: 0.5471698, g: 0.1008509, b: 0, a: 1}
-    - _baseColor: {r: 1, g: 0.5921569, b: 0.21176471, a: 0}
-    - _edgeColor: {r: 25.275629, g: 14.967137, b: 5.352486, a: 0}
+    - _Color: {r: 0.9622642, g: 0.47584018, b: 0, a: 1}
+    - _EmissionColor: {r: 0.5019608, g: 0.15294118, b: 0, a: 1}
+    - _baseColor: {r: 0, g: 0.11372549, b: 0.8509804, a: 0}
+    - _edgeColor: {r: 0, g: 0.9263318, b: 33.74495, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &8292502766027894220
 MonoBehaviour:

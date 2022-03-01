@@ -1,12 +1,13 @@
 ﻿<Properties StartupConfiguration="{F8BC7BB3-0B9C-5E38-895C-385A5DCEC48F}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerMovement.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GhostController.cs">
     <Files>
-      <File FileName="Assets/Scripts/PlayerCollision.cs" Line="25" Column="1" />
-      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="7" Column="46" />
-      <File FileName="Assets/Scripts/CollectiblesAnimation.cs" Line="17" Column="6" />
-      <File FileName="Assets/Scripts/AudioController.cs" Line="50" Column="10" />
-      <File FileName="Assets/BGMController.cs" Line="19" Column="33" />
-      <File FileName="Assets/Scripts/UIController.cs" Line="1" Column="13" />
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="52" Column="6" />
+      <File FileName="Assets/Scripts/PlayerCollision.cs" Line="20" Column="1" />
+      <File FileName="Assets/Scripts/AudioController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/BGMController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GhostController.cs" Line="86" Column="27" />
+      <File FileName="Assets/Scripts/UIController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CameraRotation.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,16 +15,10 @@
           <Node name="Pac-man 3D" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="PlayerMovement.cs" selected="True" />
+                <Node name="GhostController.cs" selected="True" />
               </Node>
-              <Node name="Visuals" expanded="True" />
             </Node>
           </Node>
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="Unity" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
@@ -31,7 +26,7 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <Debugger.DebugSourceFolders />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c2896b35-06ff-45d5-911b-ba6426d27034" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="caa62e94-ed00-4c7e-a9be-db0fc15e7051" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

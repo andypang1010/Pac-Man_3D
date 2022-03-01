@@ -6,51 +6,36 @@ public class UIController : MonoBehaviour
     [SerializeField] TMP_Text scoreText;
     [SerializeField] TMP_Text lifeText;
     [SerializeField] Color powerColor = new Color(0, 255, 203);
+    [SerializeField] Color lostColor = new Color(0, 0, 0);
 
-    void Update()
+
+    private void Update()
     {
-        if (!PlayerCollision.winGame)
+        if (PlayerCollision.hasPower)
         {
-            if (PlayerCollision.fruitPower)
-            {
-                ShowPowerUp();
-            }
-
-            else if (PlayerCollision.lostGame)
-            {
-                SetColorText("You've lost...", Color.red);
-            }
-
-            else
-            {
-                ShowDefaultText();
-            }
+            SetColorText("Power Up!", powerColor);
         }
-        else
+        else if (PlayerCollision.winGame)
         {
             SetColorText("You've won!", powerColor);
         }
-
+        else if (PlayerCollision.loseGame)
+        {
+            SetColorText("You've lost...", lostColor);
+        }
+        else
+        {
+            SetColorText("Lives: " + PlayerCollision.lives, Color.white);
+        }
     }
 
-    void ShowPowerUp()
-    {
-        SetColorText("Power Up!", powerColor);
-        Invoke("ShowDefaultText", 14f);
-    }
-
-    void SetColorText(string life, Color color)
+    private void SetColorText(string life, Color color)
     {
         scoreText.SetText("Score: " + PlayerCollision.score);
         lifeText.SetText(life);
 
         scoreText.color = color;
         lifeText.color = color;
-    }
-
-    void ShowDefaultText()
-    {
-        SetColorText("Lives: " + PlayerCollision.lives, Color.white);
     }
 
     public void ExitGame()
