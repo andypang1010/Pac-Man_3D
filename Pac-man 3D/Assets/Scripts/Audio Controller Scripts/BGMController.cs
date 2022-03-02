@@ -9,12 +9,12 @@ public class BGMController : MonoBehaviour
     [SerializeField] AudioClip BGMClip;
 
     bool playedOnce = false;
+    bool playingBGM = false;
     AudioSource audioSource;
 
     private void Start()
     {
         audioSource = GetComponent<AudioSource>();
-        audioSource.PlayOneShot(BGMClip);
     }
 
     private void Update()
@@ -29,6 +29,15 @@ public class BGMController : MonoBehaviour
             audioSource.PlayOneShot(loseClip);
         }
 
+        else
+        {
+            if (!playingBGM)
+            {
+                playingBGM = true;
+                audioSource.PlayOneShot(BGMClip);
+                //audioSource.
+            }
+        }
         playedOnce = true;
     }
 }

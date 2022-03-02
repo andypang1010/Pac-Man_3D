@@ -5,26 +5,27 @@ public class GhostController : MonoBehaviour
 {
     [SerializeField] float spawnDelay;
     [SerializeField] Vector3 spawnPosition;
-    [SerializeField] Transform playerTransform;
+    [SerializeField] Transform targetTransform;
     [SerializeField] Material normalMaterial;
     [SerializeField] Material scaredMaterial;
 
     bool wasDead;
     NavMeshAgent agent;
+    new CapsuleCollider collider;
+
     Material material;
     Shader standardShader;
     Shader dissolveShader;
-    new CapsuleCollider collider;
 
     void Start()
     {
         agent = GetComponent<NavMeshAgent>();
+        agent.enabled = false;
+        Invoke(nameof(EnableMovement), spawnDelay);
         standardShader = Shader.Find("Standard");
         dissolveShader = Shader.Find("Shader Graphs/Dissolve Shader Graph");
 
-        material = GetComponent<Renderer>().material;
-        material = normalMaterial;
-        material.shader = standardShader;
+        material = GetComponent<Material>();
 
         collider = GetComponent<CapsuleCollider>();
         collider.enabled = true;
@@ -32,21 +33,28 @@ public class GhostController : MonoBehaviour
 
     void Update()
     {
-        if (wasDead)
+        if (!PlayerCollision.winGame && !PlayerCollision.loseGame)
         {
-            Invoke("NotDead", spawnDelay);
-        }
+            if (wasDead)
+            {
+                Invoke(nameof(NotDead), spawnDelay);
+            }
 
-        if (PlayerCollision.hasPower)
-        {
-            material = scaredMaterial;
+            if (PlayerCollision.hasPower)
+            {
+                agent.SetDestination(spawnPosition);
+            }
+            else
+            {
+                if (agent.enabled)
+                {
+                    agent.SetDestination(targetTransform.position);
+                }
+            }
         }
         else
         {
-            material = normalMaterial;
-            material.shader = standardShader;
-
-            agent.SetDestination(playerTransform.position);
+            agent.enabled = false;
         }
     }
 
@@ -56,14 +64,13 @@ public class GhostController : MonoBehaviour
         {
             if (PlayerCollision.hasPower)
             {
-                collider.enabled = false;
+                collider.isTrigger = false;
+                material.shader = dissolveShader;
                 PlayDissolveAnimation();
-                collider.enabled = true;
-                wasDead = true;
             }
             else
             {
-                RespawnAll();
+                Respawn();
             }
         }
     }
@@ -72,15 +79,16 @@ public class GhostController : MonoBehaviour
     {
         agent.enabled = false;
         transform.position = spawnPosition;
-        agent.enabled = true;
+        Invoke(nameof(EnableMovement), spawnDelay);
     }
 
     private void PlayDissolveAnimation()
     {
-        material.shader = dissolveShader;
-        Invoke("Respawn", 1.5f);
+        Invoke(nameof(Respawn), 1.5f);
         material = normalMaterial;
         material.shader = standardShader;
+        collider.isTrigger = true;
+        wasDead = true;
     }
 
     private void NotDead()
@@ -88,13 +96,8 @@ public class GhostController : MonoBehaviour
         wasDead = false;
     }
 
-    private void RespawnAll()
+    private void EnableMovement()
     {
-        GameObject[] ghosts = GameObject.FindGameObjectsWithTag("Ghost");
-
-        foreach (GameObject ghost in ghosts)
-        {
-            ghost.GetComponent<GhostController>().Respawn();
-        }
+        agent.enabled = true;
     }
 }

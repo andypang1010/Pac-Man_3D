@@ -42,6 +42,7 @@ public class PlayerCollision : MonoBehaviour
                 {
                     winGame = true;
                     loseGame = false;
+                    PlayerMovement.controller.enabled = false;
                 }
                 break;
 
@@ -67,6 +68,7 @@ public class PlayerCollision : MonoBehaviour
                     {
                         loseGame = true;
                         winGame = false;
+                        PlayerMovement.controller.enabled = false;
                     }
                     else
                     {
