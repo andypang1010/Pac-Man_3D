@@ -1,24 +1,10 @@
 ﻿<Properties StartupConfiguration="{F8BC7BB3-0B9C-5E38-895C-385A5DCEC48F}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Ghost Controller Scripts/GhostController.cs">
-    <Files>
-      <File FileName="Assets/Scripts/GhostController.cs" Line="47" Column="48" />
-      <File FileName="Assets/Scripts/PlayerCollision.cs" Line="45" Column="63" />
-      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/AudioController.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/BGMController.cs" Line="38" Column="19" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Pac-man 3D" expanded="True">
-            <Node name="Assets" expanded="True">
-              <Node name="Scripts" expanded="True">
-                <Node name="Audio Controller Scripts" expanded="True" />
-                <Node name="Ghost Controller Scripts" expanded="True">
-                  <Node name="GhostController.cs" selected="True" />
-                </Node>
-              </Node>
-            </Node>
+            <Node name="Assets" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>
@@ -27,7 +13,7 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <Debugger.DebugSourceFolders />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d76a5f10-b041-4896-93ca-d5990bb1bfbd" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="22f3bfa5-cac5-4d7b-9b86-ffdf7dfbf868" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
