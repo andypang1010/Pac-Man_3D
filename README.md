@@ -1,4 +1,2 @@
 # Pac-Man_3D
-A 3D remake of the classic Pac-Man game. The game features the classic Pac-Man on his quest trying to eat as many gems as possible without being caught by ghosts that are controlled by Unity NavMesh Agents. This game also changes the classic controls in the original Pac-Man game where you could only control the rotation of Pac-Man and now allows you to control the movement of the character too.
-
-*All functionalities have been implemented except for special effects on collision.*
+A 3D remake of the classic Pac-Man game. The game features the classic Pac-Man on his quest trying to eat as many gems as possible without being caught by ghosts that are controlled by Unity NavMesh Agents with the same algorithm as that of the classical Pac-Man. This game also improves on the original approach of input control from only using the arrow keys to control the movement of Pac-Man to being able to control the movement of Pac-Man with both arrow keys and mouse.
